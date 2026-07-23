@@ -1,6 +1,6 @@
 # Argon 40 — Product Datasheets
 
-Official, auto-generated product datasheets for [Argon 40](https://argon40.com) —
+Official,product datasheets for [Argon 40](https://argon40.com) —
 premium enclosures, expansion boards, and accessories for Raspberry Pi single-board computers.
 
 This repository is **public and view-only**. Every datasheet here is generated and published
