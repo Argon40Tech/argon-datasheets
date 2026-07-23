@@ -1,0 +1,50 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "95ada0702e50",
+  "generated_at": "2026-07-23 03:35 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A22-001 AR-EON",
+      "upc_ean": "6974297860033",
+      "dimensions_cm": "21 x 17 x 14.5 cm",
+      "weight_kg": "1.95",
+      "category": "NAS",
+      "hts_code": "7612.90.9000"
+    },
+    "specs": {
+      "material": "Aluminum enclosure",
+      "drives": "2x 3.5\" + 2x 2.5\" SATA",
+      "display": "OLED, programmable",
+      "rtc": "Yes",
+      "fan": "Software-controllable",
+      "ir": "IR receiver included",
+      "usb": "USB 3.0 hub",
+      "ethernet": "Gigabit"
+    },
+    "compatibility": [
+      "Raspberry Pi 4"
+    ],
+    "description": "4-bay Pi NAS enclosure for Raspberry Pi 4 with SATA storage support, full-size HDMI output, and integrated power management. Supports 2.5\" SATA SSDs/HDDs and optional 3.5\" drives with adapter.",
+    "features": [
+      "4 SATA bays (2x 3.5\" + 2x 2.5\")",
+      "Programmable OLED display",
+      "Built-in Real Time Clock (RTC)",
+      "Software-controllable fan",
+      "IR receiver",
+      "USB 3.0 hub",
+      "Gigabit Ethernet passthrough"
+    ]
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-07-23 03:35 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
