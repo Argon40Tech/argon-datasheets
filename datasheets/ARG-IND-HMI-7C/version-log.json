@@ -1,0 +1,33 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "e2fb659c9ca6",
+  "generated_at": "2026-07-23 04:32 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A25-004-AR-HMI-7C",
+      "upc_ean": "5065019946263",
+      "dimensions_cm": "—",
+      "weight_kg": "—",
+      "category": "AI HMI",
+      "hts_code": "—"
+    },
+    "specs": {},
+    "compatibility": [
+      "Raspberry Pi 5 / Raspberry Pi 7-inch Touch Display 2"
+    ],
+    "description": "Industria enclosure designed to house the official Raspberry Pi 7-inch Touch Display 2. Integrates the RPi display into the Industria industrial form factor.",
+    "features": []
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-07-23 04:32 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
