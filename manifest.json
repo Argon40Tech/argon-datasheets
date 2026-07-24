@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 05:11 UTC",
+  "generated_at": "2026-07-24 05:16 UTC",
   "product_count": 5,
   "products": [
     {
@@ -30,7 +30,7 @@
       "sku": "ARG-EON-NAS",
       "name": "Argon EON Pi NAS",
       "family": "EON",
-      "category": "—",
+      "category": "NAS",
       "compatible_with": [
         "Raspberry Pi 4"
       ],
@@ -42,11 +42,11 @@
         "sata",
         "argon-eon"
       ],
-      "document_version": 3,
-      "product_revision": 3,
-      "generated_at": "2026-07-24 03:36 UTC",
+      "document_version": 4,
+      "product_revision": 4,
+      "generated_at": "2026-07-24 05:16 UTC",
       "pdf_path": "datasheets/ARG-EON-NAS/ARG-EON-NAS-datasheet.pdf",
-      "pdf_size_bytes": 56515,
+      "pdf_size_bytes": 56382,
       "needs_metadata_backfill": false
     },
     {
