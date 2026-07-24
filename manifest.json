@@ -3,21 +3,6 @@
   "product_count": 5,
   "products": [
     {
-      "sku": "ARG-IND-HMI-5C",
-      "name": "ARG-IND-HMI-5C",
-      "family": "General",
-      "category": "",
-      "compatible_with": [],
-      "description": "",
-      "tags": [],
-      "document_version": 1,
-      "product_revision": 1,
-      "generated_at": "2026-07-23 04:34 UTC",
-      "pdf_path": "datasheets/ARG-IND-HMI-5C/ARG-IND-HMI-5C-datasheet.pdf",
-      "pdf_size_bytes": 52831,
-      "needs_metadata_backfill": true
-    },
-    {
       "sku": "ARG-IND-HMI-7C",
       "name": "ARG-IND-HMI-7C",
       "family": "General",
@@ -77,6 +62,23 @@
       "generated_at": "2026-07-24 03:36 UTC",
       "pdf_path": "datasheets/ARG-EON-NAS/ARG-EON-NAS-datasheet.pdf",
       "pdf_size_bytes": 56515,
+      "needs_metadata_backfill": false
+    },
+    {
+      "sku": "ARG-IND-HMI-5C",
+      "name": "Argon Industria HMI 5C Enclosure for Official Raspberry Pi 5-Inch Screen",
+      "family": "General",
+      "category": "AI HMI",
+      "compatible_with": [
+        "Raspberry Pi 5 / Raspberry Pi 5-inch Touch Display 2"
+      ],
+      "description": "Industria enclosure designed to house the official Raspberry Pi 5-inch Touch Display 2. Integrates the RPi display into the Industria industrial form factor.",
+      "tags": [],
+      "document_version": 2,
+      "product_revision": 1,
+      "generated_at": "2026-07-24 03:36 UTC",
+      "pdf_path": "datasheets/ARG-IND-HMI-5C/ARG-IND-HMI-5C-datasheet.pdf",
+      "pdf_size_bytes": 52834,
       "needs_metadata_backfill": false
     },
     {
