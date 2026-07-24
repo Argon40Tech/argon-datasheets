@@ -1,0 +1,49 @@
+name: Rebuild datasheet index
+
+# Keeps manifest.json (and therefore index.html) in sync whenever a datasheet
+# or its product.json is added/changed. This is push-triggered CI, not a
+# cron job or always-on server — consistent with the project's "fully
+# manual / human-triggered" publishing model. wiki_tool.py's `datasheet`
+# command is what actually pushes new PDFs here; this workflow just
+# regenerates the index every time that happens.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "datasheets/**"
+      - "scripts/build_manifest.py"
+  workflow_dispatch: {}   # lets you trigger a manual rebuild from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: true
+
+jobs:
+  build-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build manifest.json
+        run: python3 scripts/build_manifest.py
+
+      - name: Commit manifest.json if changed
+        run: |
+          if git diff --quiet -- manifest.json; then
+            echo "manifest.json unchanged — nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "chore: rebuild manifest.json [skip ci]"
+          git push
