@@ -191,6 +191,12 @@
     nav.site-links{display:none;}
     .filters{flex-direction:column; align-items:stretch;}
   }
+
+  /* Must win over .grid/.skeleton-grid's display:grid — kept last + !important
+     so toggling el.hidden in JS reliably hides these regardless of engine
+     rule-ordering quirks (the UA default [hidden]{display:none} alone isn't
+     enough once an author rule sets display explicitly). */
+  [hidden]{display:none !important;}
 </style>
 </head>
 <body>
