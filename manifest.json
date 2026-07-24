@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 03:35 UTC",
+  "generated_at": "2026-07-24 03:36 UTC",
   "product_count": 5,
   "products": [
     {
@@ -35,17 +35,26 @@
     {
       "sku": "ARG-ONE-V5-NVME",
       "name": "ARG-ONE-V5-NVME",
-      "family": "General",
-      "category": "",
-      "compatible_with": [],
-      "description": "",
-      "tags": [],
-      "document_version": 4,
-      "product_revision": 4,
-      "generated_at": "2026-07-23 02:05 UTC",
+      "family": "V5",
+      "category": "—",
+      "compatible_with": [
+        "Raspberry Pi 5"
+      ],
+      "description": "Aluminum Raspberry Pi 5 case with M.2 NVMe SSD slot via PCIe for maximum storage performance.",
+      "tags": [
+        "case",
+        "raspberry-pi-5",
+        "nvme",
+        "m2",
+        "pcie",
+        "argon-one"
+      ],
+      "document_version": 5,
+      "product_revision": 5,
+      "generated_at": "2026-07-24 03:35 UTC",
       "pdf_path": "datasheets/ARG-ONE-V5-NVME/ARG-ONE-V5-NVME-datasheet.pdf",
-      "pdf_size_bytes": 55477,
-      "needs_metadata_backfill": true
+      "pdf_size_bytes": 57721,
+      "needs_metadata_backfill": false
     },
     {
       "sku": "ARG-EON-NAS",
