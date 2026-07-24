@@ -1,0 +1,90 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "b855f621ecdd",
+  "generated_at": "2026-07-24 08:33 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A24-012-PWR-UPS-AR-5000",
+      "upc_ean": "5065019946232",
+      "dimensions_cm": "145 x 108 x 38.5 cm",
+      "weight_kg": "0.275",
+      "category": "PWR PD",
+      "hts_code": "8504.40.7001"
+    },
+    "specs": {
+      "product_name": "Argon PWR UPS 27W PD",
+      "battery_capacities": "5000mAh, 10000mAh",
+      "usb_c_power_delivery": "27W PD",
+      "usb_outputs": "USB-C 5V Power OUT, USB-A 5V Power OUT",
+      "usb_input": "USB-C 5V Power IN",
+      "included_cable": "Argon E-marker USB-C Cable",
+      "features": "ON / OFF Switch, Battery Level Indicator, Battery Check button",
+      "compatible_devices": "Argon NEO 5, Argon ONE V5, Bare Raspberry Pi 4, Bare Raspberry Pi 5, Argon ONE V3, Argon NEO, Argon POLY+, Argon POLY+5",
+      "minimum_psu": "5V 18W",
+      "recommended_psu": "27W PD",
+      "optimal_psu": "45W PD",
+      "sku": "ARG-PWR-UPS-5K",
+      "model_number": "A24-012-PWR-UPS-AR-5000",
+      "upc_ean": "5065019946232",
+      "price_usd": "$50.00",
+      "availability": "Currently Sold out",
+      "dimensions": "145 × 108 × 38.5 cm [NOTE: flagged as likely data entry error]",
+      "weight_kg": "0.275",
+      "battery_type": "Li-ion",
+      "battery_capacity_mah": "5000",
+      "max_output_power": "27W",
+      "usb_c_output": "5V 5A (27W)",
+      "usb_a_output": "5V 1A",
+      "usb_c_input": "5V 5A for charging",
+      "recommended_psu_min": "27W PD",
+      "recommended_psu_optimal": "45W PD",
+      "minimum_psu_basic": "5V 18W",
+      "on_off_switch": "Physical slider switch",
+      "battery_check_button": "Yes; displays charge level via LED indicator",
+      "battery_level_indicator": "Multi-LED system; behavior varies by state",
+      "communication_interface": "USB-C data link via included e-marker cable",
+      "onboard_mcu": "Yes; enables communication with Raspberry Pi 5",
+      "secondary_port": "USB-A 5V 1A for accessories",
+      "designed_for": "Raspberry Pi 5",
+      "also_compatible_with": "Raspberry Pi 4, Argon ONE V3, Argon ONE V5, Argon NEO, Argon NEO 5, Argon POLY+, Argon POLY+5",
+      "not_supported_on": "Raspberry Pi Zero, Raspberry Pi Zero W, Argon ONE V2",
+      "optimized_for": "Argon NEO 5 case",
+      "fcc_certified": "Yes",
+      "etl_certified": "Yes",
+      "hts_code": "8504.40.7001",
+      "battery_capacity": "5,000 mAh",
+      "maximum_output_power": "27W",
+      "usb_c_input_charging": "5V 5A",
+      "weight": "0.275 kg",
+      "upc": "5065019946232"
+    },
+    "compatibility": [
+      "Raspberry Pi 5"
+    ],
+    "description": "27W UPS (Uninterruptible Power Supply) for Raspberry Pi 5 with a 5,000 mAh battery. Compact UPS for shorter runtime needs. USB-C PD 27W output for full RPi 5 performance.",
+    "features": [
+      "Li-ion 5,000 mAh battery",
+      "USB-C Power Delivery input and output",
+      "Secondary USB-A 5V 1A port for accessories",
+      "Onboard MCU for Raspberry Pi power monitoring",
+      "Physical slider on/off switch",
+      "Battery check button with multi-LED indicator",
+      "Included Argon E-marker USB-C to USB-C cable",
+      "FCC and ETL certified",
+      "Smart fuel gauge calibration for accurate runtime estimates"
+    ],
+    "extra_notes": ""
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-07-24 08:33 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
