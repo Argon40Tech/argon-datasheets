@@ -2,7 +2,7 @@
   "sku": "ARG-ONE-V5-NVME",
   "name": "ARG-ONE-V5-NVME",
   "family": "V5",
-  "category": "—",
+  "category": "ONE v5",
   "compatible_with": [
     "Raspberry Pi 5"
   ],
