@@ -31,8 +31,10 @@ datasheets/
 > **Tip:** the SKU is on every Argon 40 product page and box. Browse the
 > [`datasheets/`](datasheets/) folder and open the folder matching your SKU.
 
-<!-- If GitHub Pages is enabled on this repo, add the browsable link here:
-Browse online: https://argon40tech.github.io/argon-datasheets/ -->
+**Browse online:** [argon40tech.github.io/argon-datasheets](https://argon40tech.github.io/argon-datasheets/)
+— a searchable, filterable index of every datasheet below, kept in sync automatically
+(see [`scripts/build_manifest.py`](scripts/build_manifest.py) and
+[`.github/workflows/build-index.yml`](.github/workflows/build-index.yml)).
 
 ---
 
