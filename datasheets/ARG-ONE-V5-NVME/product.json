@@ -1,0 +1,18 @@
+{
+  "sku": "ARG-ONE-V5-NVME",
+  "name": "ARG-ONE-V5-NVME",
+  "family": "V5",
+  "category": "—",
+  "compatible_with": [
+    "Raspberry Pi 5"
+  ],
+  "description": "Aluminum Raspberry Pi 5 case with M.2 NVMe SSD slot via PCIe for maximum storage performance.",
+  "tags": [
+    "case",
+    "raspberry-pi-5",
+    "nvme",
+    "m2",
+    "pcie",
+    "argon-one"
+  ]
+}
