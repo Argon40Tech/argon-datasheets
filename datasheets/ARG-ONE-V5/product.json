@@ -1,0 +1,16 @@
+{
+  "sku": "ARG-ONE-V5",
+  "name": "Argon ONE V5 M.2 Case for Raspberry Pi 5",
+  "family": "V5",
+  "category": "ONE v5",
+  "compatible_with": [
+    "Raspberry Pi 5"
+  ],
+  "description": "Premium aluminium case for Raspberry Pi 5 with integrated M.2 NVMe PCIe storage support via the PCIe FPC connector. Features passive aluminium heatsink body, programmable power button, and repositioned full-size HDMI and USB-C ports. Compatible with Raspberry Pi 5 only.",
+  "tags": [
+    "case",
+    "raspberry-pi-5",
+    "cooling",
+    "argon-one"
+  ]
+}
