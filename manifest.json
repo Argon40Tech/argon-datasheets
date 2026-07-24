@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-24 03:37 UTC",
+  "generated_at": "2026-07-24 05:11 UTC",
   "product_count": 5,
   "products": [
     {
       "sku": "ARG-ONE-V5-NVME",
       "name": "ARG-ONE-V5-NVME",
       "family": "V5",
-      "category": "—",
+      "category": "ONE v5",
       "compatible_with": [
         "Raspberry Pi 5"
       ],
@@ -19,11 +19,11 @@
         "pcie",
         "argon-one"
       ],
-      "document_version": 5,
-      "product_revision": 5,
-      "generated_at": "2026-07-24 03:35 UTC",
+      "document_version": 6,
+      "product_revision": 6,
+      "generated_at": "2026-07-24 05:11 UTC",
       "pdf_path": "datasheets/ARG-ONE-V5-NVME/ARG-ONE-V5-NVME-datasheet.pdf",
-      "pdf_size_bytes": 57721,
+      "pdf_size_bytes": 57800,
       "needs_metadata_backfill": false
     },
     {
