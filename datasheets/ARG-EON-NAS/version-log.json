@@ -1,16 +1,16 @@
 {
-  "document_version": 2,
-  "product_revision": 2,
-  "content_hash": "640674ee85a2",
-  "generated_at": "2026-07-24 03:23 UTC",
+  "document_version": 3,
+  "product_revision": 3,
+  "content_hash": "c826081534b9",
+  "generated_at": "2026-07-24 03:36 UTC",
   "snapshot": {
     "identity": {
-      "model_no": "A22-001 AR-EON",
-      "upc_ean": "6974297860033",
-      "dimensions_cm": "21 x 17 x 14.5 cm",
-      "weight_kg": "1.95",
-      "category": "NAS",
-      "hts_code": "7612.90.9000"
+      "model_no": "—",
+      "upc_ean": "—",
+      "dimensions_cm": "—",
+      "weight_kg": "—",
+      "category": "—",
+      "hts_code": "—"
     },
     "specs": {
       "product_name": "Argon EON Pi NAS",
@@ -19,7 +19,7 @@
       "compatible_pi": "Raspberry Pi 4 only",
       "enclosure_material": "Aluminum",
       "drive_bays": "2× 3.5\" SATA + 2× 2.5\" SATA (total 4 bays)",
-      "display": "Programmable OLED",
+      "display_type": "Programmable OLED",
       "display_features": "Shows IP address, CPU status, storage status",
       "rtc": "Built-in",
       "fan": "Software-controllable",
@@ -34,21 +34,24 @@
       "pi4_processor": "Broadcom BCM2711, 1.8 GHz quad-core 64-bit Arm Cortex-A72",
       "pi4_gpu": "VideoCore VI, OpenGL ES 3.1, 4Kp60 H.265 decode",
       "pi4_ram_options": "2GB, 4GB, or 8GB LPDDR4-3200",
+      "pi4_storage_builtin": "microSD card (UHS-I)",
       "pi4_wifi": "Dual-band 802.11ac",
       "pi4_bluetooth": "Bluetooth 5.0 / BLE",
+      "pi4_ethernet": "Gigabit Ethernet (on-board)",
       "pi4_usb": "2× USB 3.0 (5 Gbps) + 2× USB 2.0",
-      "pi4_hdmi": "2× micro-HDMI (4Kp60 + 4Kp60 simultaneous)",
+      "pi4_display_outputs": "2× micro-HDMI (4Kp60 + 4Kp60 simultaneous), MIPI DSI, MIPI CSI",
       "pi4_gpio": "40-pin Raspberry Pi standard GPIO header",
       "pi4_power_input": "USB-C connector",
       "pi4_power_recommended": "5V @ 3A (15W)",
-      "pi4_dimensions": "85mm × 56mm",
       "pi4_supported_os": "Raspberry Pi OS (32-bit and 64-bit), Ubuntu, and others",
+      "pi4_dimensions": "85mm × 56mm",
       "price": "$150.00 USD",
       "compatible_sbc": "Raspberry Pi 4 Model B (only)",
       "drive_bays_3_5_inch": "2× 3.5\" SATA",
       "drive_bays_2_5_inch": "2× 2.5\" SATA",
       "total_drive_bays": "4",
-      "display_info": "IP address, CPU status, storage status",
+      "display": "Programmable OLED",
+      "display_shows": "IP address, CPU status, storage status",
       "enclosure_power_supply": "12V 5A",
       "thermal_management": "Passive aluminum heat conduction + active software-controllable fan",
       "port_layout": "All ports on one side",
@@ -123,6 +126,27 @@
         "Added spec `sku` = ARG-EON-NAS",
         "Added spec `thermal_management` = Passive aluminum heat conduction + active software-controllable fan",
         "Added spec `total_drive_bays` = 4"
+      ]
+    },
+    {
+      "document_version": 3,
+      "product_revision": 3,
+      "generated_at": "2026-07-24 03:36 UTC",
+      "data_changed": true,
+      "remarks": [
+        "identity `category`: NAS → —",
+        "identity `dimensions_cm`: 21 x 17 x 14.5 cm → —",
+        "identity `hts_code`: 7612.90.9000 → —",
+        "identity `model_no`: A22-001 AR-EON → —",
+        "identity `upc_ean`: 6974297860033 → —",
+        "identity `weight_kg`: 1.95 → —",
+        "Removed spec `display_info`",
+        "Added spec `display_shows` = IP address, CPU status, storage status",
+        "Added spec `display_type` = Programmable OLED",
+        "Added spec `pi4_display_outputs` = 2× micro-HDMI (4Kp60 + 4Kp60 simultaneous), MIPI DSI, MIPI CSI",
+        "Added spec `pi4_ethernet` = Gigabit Ethernet (on-board)",
+        "Removed spec `pi4_hdmi`",
+        "Added spec `pi4_storage_builtin` = microSD card (UHS-I)"
       ]
     }
   ]
