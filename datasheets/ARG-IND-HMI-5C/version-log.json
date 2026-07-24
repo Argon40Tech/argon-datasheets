@@ -1,8 +1,8 @@
 {
-  "document_version": 1,
+  "document_version": 2,
   "product_revision": 1,
   "content_hash": "196bf2466cda",
-  "generated_at": "2026-07-23 04:34 UTC",
+  "generated_at": "2026-07-24 03:36 UTC",
   "snapshot": {
     "identity": {
       "model_no": "A25-012-AR-HMI-5C",
@@ -27,6 +27,15 @@
       "data_changed": true,
       "remarks": [
         "Initial datasheet — all fields new."
+      ]
+    },
+    {
+      "document_version": 2,
+      "product_revision": 1,
+      "generated_at": "2026-07-24 03:36 UTC",
+      "data_changed": false,
+      "remarks": [
+        "No product-data changes; document regenerated."
       ]
     }
   ]
