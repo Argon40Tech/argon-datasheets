@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-07-24 03:36 UTC",
+  "generated_at": "2026-07-24 03:37 UTC",
   "product_count": 5,
   "products": [
-    {
-      "sku": "ARG-IND-HMI-7C",
-      "name": "ARG-IND-HMI-7C",
-      "family": "General",
-      "category": "",
-      "compatible_with": [],
-      "description": "",
-      "tags": [],
-      "document_version": 1,
-      "product_revision": 1,
-      "generated_at": "2026-07-23 04:32 UTC",
-      "pdf_path": "datasheets/ARG-IND-HMI-7C/ARG-IND-HMI-7C-datasheet.pdf",
-      "pdf_size_bytes": 52834,
-      "needs_metadata_backfill": true
-    },
     {
       "sku": "ARG-ONE-V5-NVME",
       "name": "ARG-ONE-V5-NVME",
@@ -79,6 +64,23 @@
       "generated_at": "2026-07-24 03:36 UTC",
       "pdf_path": "datasheets/ARG-IND-HMI-5C/ARG-IND-HMI-5C-datasheet.pdf",
       "pdf_size_bytes": 52834,
+      "needs_metadata_backfill": false
+    },
+    {
+      "sku": "ARG-IND-HMI-7C",
+      "name": "Argon Industria HMI 7C Enclosure for Official Raspberry Pi 7-Inch Screen",
+      "family": "General",
+      "category": "AI HMI",
+      "compatible_with": [
+        "Raspberry Pi 5 / Raspberry Pi 7-inch Touch Display 2"
+      ],
+      "description": "Industria enclosure designed to house the official Raspberry Pi 7-inch Touch Display 2. Integrates the RPi display into the Industria industrial form factor.",
+      "tags": [],
+      "document_version": 2,
+      "product_revision": 1,
+      "generated_at": "2026-07-24 03:36 UTC",
+      "pdf_path": "datasheets/ARG-IND-HMI-7C/ARG-IND-HMI-7C-datasheet.pdf",
+      "pdf_size_bytes": 52835,
       "needs_metadata_backfill": false
     },
     {
