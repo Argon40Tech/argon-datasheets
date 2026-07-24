@@ -1,0 +1,17 @@
+{
+  "sku": "ARG-EON-NAS",
+  "name": "Argon EON Pi NAS",
+  "family": "EON",
+  "category": "NAS",
+  "compatible_with": [
+    "Raspberry Pi 4"
+  ],
+  "description": "4-bay Pi NAS enclosure for Raspberry Pi 4 with SATA storage support, full-size HDMI output, and integrated power management. Supports 2.5\" SATA SSDs/HDDs and optional 3.5\" drives with adapter.",
+  "tags": [
+    "nas",
+    "raspberry-pi-4",
+    "storage",
+    "sata",
+    "argon-eon"
+  ]
+}
