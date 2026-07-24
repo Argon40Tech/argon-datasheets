@@ -2,7 +2,7 @@
   "sku": "ARG-EON-NAS",
   "name": "Argon EON Pi NAS",
   "family": "EON",
-  "category": "NAS",
+  "category": "—",
   "compatible_with": [
     "Raspberry Pi 4"
   ],
