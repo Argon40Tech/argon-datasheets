@@ -1,0 +1,11 @@
+{
+  "sku": "ARG-IND-HMI-5C",
+  "name": "Argon Industria HMI 5C Enclosure for Official Raspberry Pi 5-Inch Screen",
+  "family": "General",
+  "category": "AI HMI",
+  "compatible_with": [
+    "Raspberry Pi 5 / Raspberry Pi 5-inch Touch Display 2"
+  ],
+  "description": "Industria enclosure designed to house the official Raspberry Pi 5-inch Touch Display 2. Integrates the RPi display into the Industria industrial form factor.",
+  "tags": []
+}
