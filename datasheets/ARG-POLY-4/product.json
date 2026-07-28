@@ -1,0 +1,11 @@
+{
+  "sku": "ARG-POLY-4",
+  "name": "Argon POLY+ Raspberry Pi 4 Vented Case",
+  "family": "General",
+  "category": "POLY",
+  "compatible_with": [
+    "Raspberry Pi 4"
+  ],
+  "description": "Vented polycarbonate case for Raspberry Pi 4. Allows airflow for passive cooling while protecting the board. Budget-friendly transparent design.",
+  "tags": []
+}
