@@ -1,0 +1,35 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "44e1b8b29429",
+  "generated_at": "2026-07-28 21:13 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A20-003 AR-POL",
+      "upc_ean": "670924946908",
+      "dimensions_cm": "9.50 x 6.50 x 3.00 cm",
+      "weight_kg": "0.046",
+      "category": "POLY",
+      "hts_code": "8473.30.5100\nExclusion Code: 9903.88.69"
+    },
+    "specs": {},
+    "compatibility": [
+      "Raspberry Pi 4"
+    ],
+    "description": "Vented polycarbonate case for Raspberry Pi 4. Allows airflow for passive cooling while protecting the board. Budget-friendly transparent design.",
+    "features": [],
+    "extra_notes": "",
+    "image_hash": "dc2191deee3f"
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-07-28 21:13 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
