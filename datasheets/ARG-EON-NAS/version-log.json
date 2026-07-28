@@ -1,8 +1,8 @@
 {
-  "document_version": 4,
-  "product_revision": 4,
-  "content_hash": "d361ba6e8bb6",
-  "generated_at": "2026-07-24 05:16 UTC",
+  "document_version": 5,
+  "product_revision": 5,
+  "content_hash": "f0450b46fe8d",
+  "generated_at": "2026-07-28 06:56 UTC",
   "snapshot": {
     "identity": {
       "model_no": "A22-001 AR-EON",
@@ -15,7 +15,6 @@
     "specs": {
       "product_name": "Argon EON Pi NAS",
       "sku": "ARG-EON-NAS",
-      "price_usd": "$150.00",
       "compatible_pi": "Raspberry Pi 4 only",
       "enclosure_material": "Aluminum",
       "drive_bays": "2× 3.5\" SATA + 2× 2.5\" SATA (total 4 bays)",
@@ -37,20 +36,20 @@
       "pi4_storage_builtin": "microSD card (UHS-I)",
       "pi4_wifi": "Dual-band 802.11ac",
       "pi4_bluetooth": "Bluetooth 5.0 / BLE",
-      "pi4_ethernet": "Gigabit Ethernet",
+      "pi4_ethernet": "Gigabit Ethernet (on-board)",
       "pi4_usb": "2× USB 3.0 (5 Gbps) + 2× USB 2.0",
-      "pi4_hdmi": "2× micro-HDMI (4Kp60 + 4Kp60 simultaneous)",
+      "pi4_display_outputs": "2× micro-HDMI (4Kp60 + 4Kp60 simultaneous)",
       "pi4_gpio": "40-pin Raspberry Pi standard GPIO header",
       "pi4_power_input": "USB-C connector",
       "pi4_power_recommended": "5V @ 3A (15W)",
-      "pi4_operating_systems": "Raspberry Pi OS (32-bit and 64-bit), Ubuntu, and others",
+      "pi4_supported_os": "Raspberry Pi OS (32-bit and 64-bit), Ubuntu, and others",
+      "pi4_form_factor": "Standard Raspberry Pi form factor",
       "pi4_dimensions": "85mm × 56mm",
-      "price": "$150.00 USD",
       "compatible_sbc": "Raspberry Pi 4 Model B (only)",
-      "drive_bays_3_5_inch": "2× 3.5\" SATA",
-      "drive_bays_2_5_inch": "2× 2.5\" SATA",
+      "drive_bays_3_5_inch": "2×",
+      "drive_bays_2_5_inch": "2×",
       "total_drive_bays": "4",
-      "display_info": "IP address, CPU status, storage status",
+      "display_information": "IP address, CPU status, storage status",
       "enclosure_power_supply": "12V 5A",
       "thermal_management": "Passive aluminum heat conduction + active software-controllable fan",
       "port_layout": "All ports on one side",
@@ -70,7 +69,9 @@
       "IR receiver",
       "USB 3.0 hub",
       "Gigabit Ethernet passthrough"
-    ]
+    ],
+    "extra_notes": "",
+    "image_hash": ""
   },
   "history": [
     {
@@ -168,6 +169,26 @@
         "Added spec `pi4_hdmi` = 2× micro-HDMI (4Kp60 + 4Kp60 simultaneous)",
         "Added spec `pi4_operating_systems` = Raspberry Pi OS (32-bit and 64-bit), Ubuntu, and others",
         "Removed spec `pi4_supported_os`"
+      ]
+    },
+    {
+      "document_version": 5,
+      "product_revision": 5,
+      "generated_at": "2026-07-28 06:56 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Removed spec `display_info`",
+        "Added spec `display_information` = IP address, CPU status, storage status",
+        "spec `drive_bays_2_5_inch`: 2× 2.5\" SATA → 2×",
+        "spec `drive_bays_3_5_inch`: 2× 3.5\" SATA → 2×",
+        "Added spec `pi4_display_outputs` = 2× micro-HDMI (4Kp60 + 4Kp60 simultaneous)",
+        "spec `pi4_ethernet`: Gigabit Ethernet → Gigabit Ethernet (on-board)",
+        "Added spec `pi4_form_factor` = Standard Raspberry Pi form factor",
+        "Removed spec `pi4_hdmi`",
+        "Removed spec `pi4_operating_systems`",
+        "Added spec `pi4_supported_os` = Raspberry Pi OS (32-bit and 64-bit), Ubuntu, and others",
+        "Removed spec `price`",
+        "Removed spec `price_usd`"
       ]
     }
   ]
