@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 08:33 UTC",
+  "generated_at": "2026-07-28 03:47 UTC",
   "product_count": 6,
   "products": [
     {
@@ -85,7 +85,7 @@
     },
     {
       "sku": "ARG-ONE-V5",
-      "name": "Argon ONE V5 M.2 Case for Raspberry Pi 5",
+      "name": "Argon ONE V5 Case for Raspberry Pi 5",
       "family": "V5",
       "category": "ONE v5",
       "compatible_with": [
@@ -98,11 +98,11 @@
         "cooling",
         "argon-one"
       ],
-      "document_version": 9,
-      "product_revision": 9,
-      "generated_at": "2026-07-24 03:34 UTC",
+      "document_version": 10,
+      "product_revision": 10,
+      "generated_at": "2026-07-28 03:47 UTC",
       "pdf_path": "datasheets/ARG-ONE-V5/ARG-ONE-V5-datasheet.pdf",
-      "pdf_size_bytes": 57172,
+      "pdf_size_bytes": 57090,
       "needs_metadata_backfill": false
     },
     {
