@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 03:47 UTC",
+  "generated_at": "2026-07-28 06:56 UTC",
   "product_count": 6,
   "products": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "sku": "ARG-EON-NAS",
-      "name": "Argon EON Pi NAS",
+      "name": "Argon EON Pi NAS Enclosure  (with 12V 60W Power Supply) (US, UK, EU PLUG)",
       "family": "EON",
       "category": "NAS",
       "compatible_with": [
@@ -42,11 +42,11 @@
         "sata",
         "argon-eon"
       ],
-      "document_version": 4,
-      "product_revision": 4,
-      "generated_at": "2026-07-24 05:16 UTC",
+      "document_version": 5,
+      "product_revision": 5,
+      "generated_at": "2026-07-28 06:56 UTC",
       "pdf_path": "datasheets/ARG-EON-NAS/ARG-EON-NAS-datasheet.pdf",
-      "pdf_size_bytes": 56382,
+      "pdf_size_bytes": 55982,
       "needs_metadata_backfill": false
     },
     {
