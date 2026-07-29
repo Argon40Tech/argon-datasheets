@@ -1,8 +1,8 @@
 {
-  "document_version": 1,
-  "product_revision": 1,
-  "content_hash": "44e1b8b29429",
-  "generated_at": "2026-07-28 21:13 UTC",
+  "document_version": 2,
+  "product_revision": 2,
+  "content_hash": "b2f2a4c0ac08",
+  "generated_at": "2026-07-29 01:34 UTC",
   "snapshot": {
     "identity": {
       "model_no": "A20-003 AR-POL",
@@ -18,7 +18,7 @@
     ],
     "description": "Vented polycarbonate case for Raspberry Pi 4. Allows airflow for passive cooling while protecting the board. Budget-friendly transparent design.",
     "features": [],
-    "extra_notes": "",
+    "extra_notes": "designed to work with the Argon Fan HAT and Argon Mini Fan.",
     "image_hash": "dc2191deee3f"
   },
   "history": [
@@ -29,6 +29,15 @@
       "data_changed": true,
       "remarks": [
         "Initial datasheet — all fields new."
+      ]
+    },
+    {
+      "document_version": 2,
+      "product_revision": 2,
+      "generated_at": "2026-07-29 01:34 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Additional notes updated"
       ]
     }
   ]
