@@ -1,11 +1,29 @@
 {
   "sku": "ARG-IND-HMI-7C",
   "name": "Argon Industria HMI 7C Enclosure for Official Raspberry Pi 7-Inch Screen",
-  "family": "General",
+  "family": "Industria",
   "category": "AI HMI",
   "compatible_with": [
-    "Raspberry Pi 5 / Raspberry Pi 7-inch Touch Display 2"
+    "Raspberry Pi 5 / Raspberry Pi 7-inch Touch Display 2",
+    "Raspberry Pi 5"
   ],
   "description": "Industria enclosure designed to house the official Raspberry Pi 7-inch Touch Display 2. Integrates the RPi display into the Industria industrial form factor.",
-  "tags": []
+  "tags": [
+    "industrial",
+    "enclosure",
+    "hmi",
+    "aluminum",
+    "heatsink",
+    "touch-display",
+    "expandable",
+    "hat-compatible",
+    "aluminum-enclosure",
+    "vesa-mount",
+    "passive-cooling",
+    "hmi-enclosure",
+    "industrial-grade",
+    "control-panel",
+    "automation",
+    "precision-machined"
+  ]
 }
