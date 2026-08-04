@@ -1,8 +1,8 @@
 {
-  "document_version": 1,
-  "product_revision": 1,
-  "content_hash": "a684241b2e8a",
-  "generated_at": "2026-08-04 15:25 UTC",
+  "document_version": 2,
+  "product_revision": 2,
+  "content_hash": "324aca604b86",
+  "generated_at": "2026-08-04 15:28 UTC",
   "snapshot": {
     "identity": {
       "model_no": "A25-006-AR-HMI-8CS",
@@ -15,9 +15,8 @@
     "specs": {
       "product_name": "HMI 8",
       "dimensions_mm": "199.47 x 195.00 x 130.47",
-      "scale": "1:1",
-      "sheets": "1 of 1",
-      "finish": "DEBURR AND BREAK SHARP EDGES",
+      "drawing_scale": "1:1",
+      "material_note": "DEBURR AND BREAK SHARP EDGES",
       "sku": "ARG-IND-HMI-8CS",
       "screen_size": "8 inches",
       "display_type": "Full Optical Bonding HDMI Display",
@@ -27,35 +26,23 @@
       "width_mm": "195.00",
       "height_mm": "199.47",
       "depth_mm": "130.47",
-      "enclosure_material": "Aluminum",
+      "material": "Aluminum enclosure",
+      "enclosure_type": "Industrial-grade aluminum",
       "cooling": "Full aluminum enclosure serves as passive heatsink with optional active module",
       "accessible_ports": "USB, Ethernet, HDMI, and GPIO ports",
       "gpio_header": "40-pin Raspberry Pi standard GPIO header",
       "hat_support": "Supports Cytron Industrial HAT or any Raspberry Pi HAT via GPIO connection",
-      "mounting_compatibility": "VESA, panel, or desktop mounting",
+      "mounting_options": "VESA, panel, or desktop mounting",
       "compatible_device": "Raspberry Pi 5 / Argon Industria Base",
-      "raspberry_pi_5_processor": "Broadcom BCM2712, 2.4 GHz quad-core 64-bit ARM Cortex-A76",
-      "raspberry_pi_5_gpu": "VideoCore VII, OpenGL ES 3.1, Vulkan 1.2",
-      "raspberry_pi_5_ram_options": "2GB, 4GB, 8GB, 16GB LPDDR4X-4267",
-      "raspberry_pi_5_storage": "microSD (UHS-I)",
-      "raspberry_pi_5_wifi": "Dual-band 802.11ac",
-      "raspberry_pi_5_bluetooth": "Bluetooth 5.0 / BLE",
-      "raspberry_pi_5_ethernet": "Gigabit Ethernet",
-      "raspberry_pi_5_usb": "2× USB 3.0 (5Gbps), 2× USB 2.0",
-      "raspberry_pi_5_display_outputs": "2× micro-HDMI (4Kp60 + 4Kp60 simultaneous), MIPI DSI, MIPI CSI",
-      "raspberry_pi_5_power_input": "USB-C PD; 5V 5A recommended (27W); 5V 3A minimum (15W)",
-      "raspberry_pi_5_rtc": "Yes, battery connector onboard",
-      "raspberry_pi_5_power_button": "Yes",
-      "raspberry_pi_5_form_factor": "Standard Raspberry Pi form factor; 85mm × 56mm",
+      "raspberry_pi_board_required": "Sold separately",
       "touch_type": "10-point capacitive touchscreen",
       "display_connection": "HDMI",
+      "enclosure_material": "Industrial-grade aluminum",
       "width": "195.00 mm",
       "height": "199.47 mm",
       "depth": "130.47 mm",
-      "mounting_options": "VESA, panel, desktop",
       "compatible_board": "Raspberry Pi 5 (with Argon Industria Base)",
-      "expansion_modules": "Argon Industria Communication modules",
-      "nvme_compatibility": "Single NVMe Board, Dual NVMe Board, NVMe with LAN (sold separately)"
+      "nvm_expansion": "Single NVMe Board, Dual NVMe Board, NVMe with LAN (sold separately)"
     },
     "compatibility": [
       "Raspberry Pi 5 / Argon Industria Base",
@@ -75,7 +62,7 @@
       "M.2 NVMe expansion board compatible"
     ],
     "extra_notes": "",
-    "image_hash": "bb3a6c0f59dc"
+    "image_hash": "0178c8c6562a"
   },
   "history": [
     {
@@ -85,6 +72,42 @@
       "data_changed": true,
       "remarks": [
         "Initial datasheet — all fields new."
+      ]
+    },
+    {
+      "document_version": 2,
+      "product_revision": 2,
+      "generated_at": "2026-08-04 15:28 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Added spec `drawing_scale` = 1:1",
+        "spec `enclosure_material`: Aluminum → Industrial-grade aluminum",
+        "Added spec `enclosure_type` = Industrial-grade aluminum",
+        "Removed spec `expansion_modules`",
+        "Removed spec `finish`",
+        "Added spec `material` = Aluminum enclosure",
+        "Added spec `material_note` = DEBURR AND BREAK SHARP EDGES",
+        "Removed spec `mounting_compatibility`",
+        "spec `mounting_options`: VESA, panel, desktop → VESA, panel, or desktop mounting",
+        "Added spec `nvm_expansion` = Single NVMe Board, Dual NVMe Board, NVMe with LAN (sold separately)",
+        "Removed spec `nvme_compatibility`",
+        "Removed spec `raspberry_pi_5_bluetooth`",
+        "Removed spec `raspberry_pi_5_display_outputs`",
+        "Removed spec `raspberry_pi_5_ethernet`",
+        "Removed spec `raspberry_pi_5_form_factor`",
+        "Removed spec `raspberry_pi_5_gpu`",
+        "Removed spec `raspberry_pi_5_power_button`",
+        "Removed spec `raspberry_pi_5_power_input`",
+        "Removed spec `raspberry_pi_5_processor`",
+        "Removed spec `raspberry_pi_5_ram_options`",
+        "Removed spec `raspberry_pi_5_rtc`",
+        "Removed spec `raspberry_pi_5_storage`",
+        "Removed spec `raspberry_pi_5_usb`",
+        "Removed spec `raspberry_pi_5_wifi`",
+        "Added spec `raspberry_pi_board_required` = Sold separately",
+        "Removed spec `scale`",
+        "Removed spec `sheets`",
+        "Marketing product image(s) updated"
       ]
     }
   ]
