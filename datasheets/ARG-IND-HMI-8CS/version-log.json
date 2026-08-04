@@ -1,0 +1,91 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "a684241b2e8a",
+  "generated_at": "2026-08-04 15:25 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A25-006-AR-HMI-8CS",
+      "upc_ean": "5065019946294",
+      "dimensions_cm": "24.8 x 16 x 7.8 cm",
+      "weight_kg": "0.964",
+      "category": "AI HMI",
+      "hts_code": "—"
+    },
+    "specs": {
+      "product_name": "HMI 8",
+      "dimensions_mm": "199.47 x 195.00 x 130.47",
+      "scale": "1:1",
+      "sheets": "1 of 1",
+      "finish": "DEBURR AND BREAK SHARP EDGES",
+      "sku": "ARG-IND-HMI-8CS",
+      "screen_size": "8 inches",
+      "display_type": "Full Optical Bonding HDMI Display",
+      "resolution": "1280 × 800",
+      "touch_capability": "10-point capacitive touchscreen",
+      "connection": "HDMI",
+      "width_mm": "195.00",
+      "height_mm": "199.47",
+      "depth_mm": "130.47",
+      "enclosure_material": "Aluminum",
+      "cooling": "Full aluminum enclosure serves as passive heatsink with optional active module",
+      "accessible_ports": "USB, Ethernet, HDMI, and GPIO ports",
+      "gpio_header": "40-pin Raspberry Pi standard GPIO header",
+      "hat_support": "Supports Cytron Industrial HAT or any Raspberry Pi HAT via GPIO connection",
+      "mounting_compatibility": "VESA, panel, or desktop mounting",
+      "compatible_device": "Raspberry Pi 5 / Argon Industria Base",
+      "raspberry_pi_5_processor": "Broadcom BCM2712, 2.4 GHz quad-core 64-bit ARM Cortex-A76",
+      "raspberry_pi_5_gpu": "VideoCore VII, OpenGL ES 3.1, Vulkan 1.2",
+      "raspberry_pi_5_ram_options": "2GB, 4GB, 8GB, 16GB LPDDR4X-4267",
+      "raspberry_pi_5_storage": "microSD (UHS-I)",
+      "raspberry_pi_5_wifi": "Dual-band 802.11ac",
+      "raspberry_pi_5_bluetooth": "Bluetooth 5.0 / BLE",
+      "raspberry_pi_5_ethernet": "Gigabit Ethernet",
+      "raspberry_pi_5_usb": "2× USB 3.0 (5Gbps), 2× USB 2.0",
+      "raspberry_pi_5_display_outputs": "2× micro-HDMI (4Kp60 + 4Kp60 simultaneous), MIPI DSI, MIPI CSI",
+      "raspberry_pi_5_power_input": "USB-C PD; 5V 5A recommended (27W); 5V 3A minimum (15W)",
+      "raspberry_pi_5_rtc": "Yes, battery connector onboard",
+      "raspberry_pi_5_power_button": "Yes",
+      "raspberry_pi_5_form_factor": "Standard Raspberry Pi form factor; 85mm × 56mm",
+      "touch_type": "10-point capacitive touchscreen",
+      "display_connection": "HDMI",
+      "width": "195.00 mm",
+      "height": "199.47 mm",
+      "depth": "130.47 mm",
+      "mounting_options": "VESA, panel, desktop",
+      "compatible_board": "Raspberry Pi 5 (with Argon Industria Base)",
+      "expansion_modules": "Argon Industria Communication modules",
+      "nvme_compatibility": "Single NVMe Board, Dual NVMe Board, NVMe with LAN (sold separately)"
+    },
+    "compatibility": [
+      "Raspberry Pi 5 / Argon Industria Base",
+      "Raspberry Pi 5"
+    ],
+    "description": "8-inch capacitive touchscreen HDMI display with Industria enclosure. Industrial HMI solution for Raspberry Pi 5, with the full Industria ecosystem compatibility.",
+    "features": [
+      "Full optical bonding HDMI display",
+      "10-point capacitive touchscreen",
+      "1280 × 800 resolution",
+      "Industrial-grade aluminum enclosure",
+      "Passive heatsink with optional active cooling module",
+      "Full port access: USB, Ethernet, HDMI, GPIO",
+      "Supports Raspberry Pi HAT modules via GPIO",
+      "Expandable with Argon Industria Communication modules",
+      "VESA, panel, and desktop mounting options",
+      "M.2 NVMe expansion board compatible"
+    ],
+    "extra_notes": "",
+    "image_hash": "bb3a6c0f59dc"
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-04 15:25 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
