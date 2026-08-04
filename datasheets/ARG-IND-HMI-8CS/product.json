@@ -1,0 +1,22 @@
+{
+  "sku": "ARG-IND-HMI-8CS",
+  "name": "Argon Industria HMI 8CS — 8-inch HDMI Display with Enclosure",
+  "family": "Industria",
+  "category": "AI HMI",
+  "compatible_with": [
+    "Raspberry Pi 5 / Argon Industria Base",
+    "Raspberry Pi 5"
+  ],
+  "description": "8-inch capacitive touchscreen HDMI display with Industria enclosure. Industrial HMI solution for Raspberry Pi 5, with the full Industria ecosystem compatibility.",
+  "tags": [
+    "industrial-hmi",
+    "touchscreen",
+    "hdmi-display",
+    "capacitive-touch",
+    "aluminum-enclosure",
+    "passive-cooling",
+    "vesa-mount",
+    "hat-compatible",
+    "industria-ecosystem"
+  ]
+}
