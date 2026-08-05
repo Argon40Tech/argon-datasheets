@@ -17,6 +17,9 @@
     "passive-cooling",
     "vesa-mount",
     "hat-compatible",
-    "industria-ecosystem"
+    "industria-ecosystem",
+    "rohs-compliant",
+    "nvme-expansion",
+    "hat-ecosystem"
   ]
 }
