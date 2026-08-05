@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04 15:26 UTC",
+  "generated_at": "2026-08-05 03:24 UTC",
   "product_count": 8,
   "products": [
     {
@@ -136,13 +136,16 @@
         "passive-cooling",
         "vesa-mount",
         "hat-compatible",
-        "industria-ecosystem"
+        "industria-ecosystem",
+        "rohs-compliant",
+        "nvme-expansion",
+        "hat-ecosystem"
       ],
-      "document_version": 1,
-      "product_revision": 1,
-      "generated_at": "2026-08-04 15:25 UTC",
+      "document_version": 3,
+      "product_revision": 3,
+      "generated_at": "2026-08-05 03:24 UTC",
       "pdf_path": "datasheets/ARG-IND-HMI-8CS/ARG-IND-HMI-8CS-datasheet.pdf",
-      "pdf_size_bytes": 65520,
+      "pdf_size_bytes": 57846,
       "needs_metadata_backfill": false
     },
     {
