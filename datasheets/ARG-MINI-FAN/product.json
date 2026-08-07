@@ -1,0 +1,15 @@
+{
+  "sku": "ARG-MINI-FAN",
+  "name": "Argon Mini Fan",
+  "family": "MiniFAN",
+  "category": "THRML",
+  "compatible_with": [
+    "Various Argon cases"
+  ],
+  "description": "Pack of 2 mini replacement fans for Argon cases. Universal small fan replacement for various Argon case series.",
+  "tags": [
+    "replacement-fan",
+    "thermal-cooling",
+    "argon-accessory"
+  ]
+}
