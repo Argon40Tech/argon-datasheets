@@ -1,0 +1,50 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "9b98d7dbabef",
+  "generated_at": "2026-08-07 05:54 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A20-004 AR-FAN",
+      "upc_ean": "670924947028",
+      "dimensions_cm": "—",
+      "weight_kg": "0.026",
+      "category": "THRML",
+      "family": "THRML",
+      "hts_code": "8414.59.6590"
+    },
+    "specs": {
+      "product_name": "Argon Mini Fan",
+      "sku": "ARG-MINI-FAN",
+      "model_number": "A20-004 AR-FAN",
+      "upc_ean": "670924947028",
+      "weight": "0.026 kg",
+      "package_contents": "Pack of 2 mini replacement fans",
+      "description": "Universal small fan replacement for various Argon case series",
+      "product_category": "THRML (Thermal)",
+      "hts_code": "8414.59.6590",
+      "manual": "AR_MINI_FAN_INSTRUCTION MANUAL.pdf",
+      "compatibility": "Various Argon cases",
+      "package_weight": "0.026 kg",
+      "weight_kg": "0.026"
+    },
+    "compatibility": [
+      "Various Argon cases"
+    ],
+    "description": "Pack of 2 mini replacement fans for Argon cases. Universal small fan replacement for various Argon case series.",
+    "features": [],
+    "extra_notes": "",
+    "image_hash": ""
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-07 05:54 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
