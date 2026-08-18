@@ -1,0 +1,11 @@
+{
+  "sku": "ARG-ONE-V5-DUAL",
+  "name": "Argon ONE V5 Dual M.2 NVME Case for Raspberry Pi 5",
+  "family": "General",
+  "category": "—",
+  "compatible_with": [
+    "Raspberry Pi 5"
+  ],
+  "description": "Argon ONE V5 aluminium case bundled with the Dual M.2 NVMe PCIe expansion board, supporting two M.2 NVMe SSDs simultaneously via the PCIe interface on the Raspberry Pi 5.",
+  "tags": []
+}
