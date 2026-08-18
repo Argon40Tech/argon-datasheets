@@ -1,27 +1,27 @@
 {
-  "document_version": 6,
-  "product_revision": 5,
-  "content_hash": "a9a65f68c08d",
-  "generated_at": "2026-08-04 15:03 UTC",
+  "document_version": 7,
+  "product_revision": 6,
+  "content_hash": "6069ac492d57",
+  "generated_at": "2026-08-18 07:43 UTC",
   "snapshot": {
     "identity": {
       "model_no": "A25-004-AR-HMI-7C",
       "upc_ean": "5065019946263",
       "dimensions_cm": "22.4 x 13.6 x 6.4 cm",
       "weight_kg": "0.676",
-      "category": "AI HMI",
+      "category": "—",
+      "family": "AI HMI",
       "hts_code": "—"
     },
     "specs": {
-      "product_name": "HMI 7",
-      "dimensions_unit": "millimeters",
+      "product_name": "HMI 7\"",
+      "document_type": "Drawing",
+      "dimensions_unit": "Millimeters",
       "scale": "1:1",
-      "sheets": "1 of 1",
-      "finish": "deburr and break sharp edges",
       "sku": "ARG-IND-HMI-7C",
-      "form_factor": "Industrial HMI (Human-Machine Interface) enclosure",
-      "compatible_pi": "Raspberry Pi 5",
-      "compatible_display": "Raspberry Pi 7-inch Touch Display 2 (720 × 1280 resolution via MIPI DSI)",
+      "form_factor": "Industrial HMI enclosure",
+      "compatible_raspberry_pi": "Raspberry Pi 5",
+      "compatible_display": "Official Raspberry Pi 7-inch Touch Display 2 (720 × 1280 resolution via MIPI DSI)",
       "material": "Aluminum",
       "design_classification": "Rugged, industrial-grade",
       "cooling_primary": "Passive heatsink",
@@ -29,8 +29,8 @@
       "gpio_access": "Full 40-pin header access",
       "accessible_ports": "USB, Ethernet, HDMI, and GPIO ports",
       "mounting_types": "VESA, panel-mount, and desktop mounting",
-      "storage_expansion": "M.2 NVMe via PCIe 2.0 ×1",
-      "expansion_board": "Argon Industria PCIe M.2 Single NVMe Board (separate accessory)",
+      "storage_expansion": "M.2 NVMe Support via PCIe 2.0 ×1",
+      "expansion_board": "Argon Industria PCIe M.2 Single NVMe Board available as separate accessory",
       "hat_support": "Standard Raspberry Pi HAT modules",
       "specific_hat_compatibility": "Cytron Industrial HAT",
       "communication_modules": "Compatible with Argon Industria Communication modules",
@@ -42,7 +42,6 @@
       "primary_cooling": "Passive heatsink (included)",
       "optional_cooling": "Active cooling module (sold separately)",
       "hat_compatibility": "Standard Raspberry Pi HATs; Cytron Industrial HAT",
-      "modular_expansion": "Argon Industria Communication Modules (sold separately)",
       "mounting_options": "VESA, panel-mount, desktop",
       "expansion_storage": "M.2 NVMe via PCIe 2.0 ×1",
       "cooling": "Passive heatsink (active module available separately)",
@@ -76,7 +75,7 @@
       "Industrial HMI (Human-Machine Interface) form factor"
     ],
     "extra_notes": "",
-    "image_hash": "d9db2bb7e802"
+    "image_hash": "cb75db85ad62"
   },
   "history": [
     {
@@ -261,6 +260,28 @@
         "Removed spec `rpi5_wifi`",
         "Added spec `sheets` = 1 of 1",
         "spec `storage_expansion`: M.2 NVMe via PCIe 2.0 ×1 (expansion board sold separately) → M.2 NVMe via PCIe 2.0 ×1",
+        "Marketing product image(s) updated"
+      ]
+    },
+    {
+      "document_version": 7,
+      "product_revision": 6,
+      "generated_at": "2026-08-18 07:43 UTC",
+      "data_changed": true,
+      "remarks": [
+        "identity `category`: AI HMI → —",
+        "Added identity `family` = AI HMI",
+        "spec `compatible_display`: Raspberry Pi 7-inch Touch Display 2 (720 × 1280 resolution via MIPI DSI) → Official Raspberry Pi 7-inch Touch Display 2 (720 × 1280 resolution via MIPI DSI)",
+        "Removed spec `compatible_pi`",
+        "Added spec `compatible_raspberry_pi` = Raspberry Pi 5",
+        "Added spec `document_type` = Drawing",
+        "spec `expansion_board`: Argon Industria PCIe M.2 Single NVMe Board (separate accessory) → Argon Industria PCIe M.2 Single NVMe Board available as separate accessory",
+        "Removed spec `finish`",
+        "spec `form_factor`: Industrial HMI (Human-Machine Interface) enclosure → Industrial HMI enclosure",
+        "Removed spec `modular_expansion`",
+        "spec `product_name`: HMI 7 → HMI 7\"",
+        "Removed spec `sheets`",
+        "spec `storage_expansion`: M.2 NVMe via PCIe 2.0 ×1 → M.2 NVMe Support via PCIe 2.0 ×1",
         "Marketing product image(s) updated"
       ]
     }
