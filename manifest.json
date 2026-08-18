@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 07:43 UTC",
+  "generated_at": "2026-08-18 08:40 UTC",
   "product_count": 10,
   "products": [
     {
@@ -160,7 +160,7 @@
       "sku": "ARG-IND-HMI-8CS",
       "name": "Argon Industria HMI 8CS — 8-inch HDMI Display with Enclosure",
       "family": "Industria",
-      "category": "AI HMI",
+      "category": "—",
       "compatible_with": [
         "Raspberry Pi 5 / Argon Industria Base",
         "Raspberry Pi 5"
@@ -180,11 +180,11 @@
         "nvme-expansion",
         "hat-ecosystem"
       ],
-      "document_version": 3,
-      "product_revision": 3,
-      "generated_at": "2026-08-05 03:24 UTC",
+      "document_version": 4,
+      "product_revision": 4,
+      "generated_at": "2026-08-18 07:56 UTC",
       "pdf_path": "datasheets/ARG-IND-HMI-8CS/ARG-IND-HMI-8CS-datasheet.pdf",
-      "pdf_size_bytes": 57846,
+      "pdf_size_bytes": 813330,
       "needs_metadata_backfill": false
     },
     {
@@ -251,7 +251,7 @@
       "sku": "ARG-PWR-UPS-5K",
       "name": "Argon PWR 27W UPS for RPi 5 — 5000mAh",
       "family": "PWR",
-      "category": "PWR PD",
+      "category": "—",
       "compatible_with": [
         "Raspberry Pi 5"
       ],
@@ -265,11 +265,11 @@
         "mcu-enabled",
         "portable-power"
       ],
-      "document_version": 1,
-      "product_revision": 1,
-      "generated_at": "2026-07-24 08:33 UTC",
+      "document_version": 2,
+      "product_revision": 2,
+      "generated_at": "2026-08-18 08:39 UTC",
       "pdf_path": "datasheets/ARG-PWR-UPS-5K/ARG-PWR-UPS-5K-datasheet.pdf",
-      "pdf_size_bytes": 56625,
+      "pdf_size_bytes": 473992,
       "needs_metadata_backfill": false
     }
   ]
