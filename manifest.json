@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18 11:16 UTC",
-  "product_count": 11,
+  "generated_at": "2026-08-18 13:11 UTC",
+  "product_count": 12,
   "products": [
     {
       "sku": "ARG-ONE-V5-NVME",
@@ -228,6 +228,23 @@
       "generated_at": "2026-07-28 03:47 UTC",
       "pdf_path": "datasheets/ARG-ONE-V5/ARG-ONE-V5-datasheet.pdf",
       "pdf_size_bytes": 57090,
+      "needs_metadata_backfill": false
+    },
+    {
+      "sku": "ARG-ONE-V5-ONLY",
+      "name": "Argon ONE V5 Case for Raspberry Pi 5",
+      "family": "General",
+      "category": "ONE v5",
+      "compatible_with": [
+        "Raspberry Pi 5"
+      ],
+      "description": "Argon ONE V5 aluminium case body without the M.2 expansion board. Full aluminium heatsink enclosure with programmable power button and repositioned HDMI/USB-C ports. Add the expansion board separately to enable NVMe storage.",
+      "tags": [],
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 13:11 UTC",
+      "pdf_path": "datasheets/ARG-ONE-V5-ONLY/ARG-ONE-V5-ONLY-datasheet.pdf",
+      "pdf_size_bytes": 835894,
       "needs_metadata_backfill": false
     },
     {
