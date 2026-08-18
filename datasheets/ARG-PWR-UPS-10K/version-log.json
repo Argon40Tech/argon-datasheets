@@ -1,0 +1,83 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "4c96ebd84334",
+  "generated_at": "2026-08-18 11:16 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A24-011-PWR-UPS-AR-10000",
+      "upc_ean": "5065019946225",
+      "dimensions_cm": "230 x 137 x 39 cm",
+      "weight_kg": "0.515",
+      "category": "—",
+      "family": "PWR PD",
+      "hts_code": "8504.40.7001"
+    },
+    "specs": {
+      "product_name": "Argon PWR UPS 27W PD",
+      "battery_capacity_models": "5000mAh, 10000mAh",
+      "power_input": "USB-C Power Delivery",
+      "power_output": "USB-C 5V, USB-A 5V",
+      "recommended_psu_wattage": "27W PD",
+      "minimum_psu_wattage": "5V 18W",
+      "optimal_psu_wattage": "45W PD",
+      "compatible_devices": "Argon NEO 5, Argon ONE V5, Raspberry Pi 4, Raspberry Pi 5, Argon ONE V3, Argon NEO, Argon POLY+, Argon POLY+5",
+      "battery_check_button": "Yes",
+      "battery_level_indicator": "LED",
+      "included_cable": "Argon E-marker USB-C cable",
+      "sku": "ARG-PWR-UPS-10K",
+      "model_number": "A24-011-PWR-UPS-AR-10000",
+      "upc_ean": "5065019946225",
+      "product_family": "PWR PD",
+      "battery_capacity": "10,000 mAh",
+      "usb_c_output_pd": "27W USB-C Power Delivery",
+      "usb_a_output": "5V",
+      "usb_c_input_minimum": "5V 18W",
+      "usb_c_input_recommended": "27W PD",
+      "usb_c_input_optimal": "45W PD",
+      "on_off_switch": "Yes, with status monitoring",
+      "smart_fuel_gauge": "Yes, with calibration capability",
+      "certifications": "FCC, ETL",
+      "fcc_certificate_reference": "23EP10114F02, FCC Part 15",
+      "primary_compatible_device": "Raspberry Pi 5 (bare board)",
+      "supported_devices": "Bare Raspberry Pi 4, Bare Raspberry Pi 5, Argon ONE V3, Argon ONE V5, Argon NEO, Argon NEO 5, Argon POLY+, Argon POLY+5",
+      "not_supported_devices": "Argon ONE V2, Raspberry Pi Zero, Raspberry Pi Zero W",
+      "dimensions_note": "[TODO: Verify physical dimensions]",
+      "weight": "515 g",
+      "output_usb_c_pd": "27W",
+      "output_usb_a": "5V",
+      "input_usb_c_minimum": "5V 18W",
+      "input_usb_c_recommended": "27W PD",
+      "input_usb_c_optimal": "45W PD",
+      "led_indicators": "Battery level LEDs"
+    },
+    "compatibility": [
+      "Raspberry Pi 5"
+    ],
+    "description": "27W UPS (Uninterruptible Power Supply) for Raspberry Pi 5 with a 10,000 mAh battery. Provides clean power delivery and battery backup, protecting against power outages. USB-C PD 27W output.",
+    "features": [
+      "10,000 mAh battery capacity",
+      "USB-C Power Delivery 27W output",
+      "USB-A 5V auxiliary output port",
+      "Smart fuel gauge with calibration",
+      "Battery level indicator LEDs with check button",
+      "ON/OFF switch with status monitoring",
+      "Included Argon E-marker USB-C cable",
+      "Accepts 5V 18W to 45W input power",
+      "FCC and ETL certified"
+    ],
+    "extra_notes": "",
+    "image_hash": "2d4a83ef3a4d"
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 11:16 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
