@@ -1,0 +1,36 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "4551218114e5",
+  "generated_at": "2026-08-18 13:11 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A24-001-AR-ONE-V5",
+      "upc_ean": "5065019946096",
+      "dimensions_cm": "10.00 x 4.00 x 16.50 cm",
+      "weight_kg": "0.33",
+      "category": "ONE v5",
+      "family": "ONE v5",
+      "hts_code": "8473.30.5100"
+    },
+    "specs": {},
+    "compatibility": [
+      "Raspberry Pi 5"
+    ],
+    "description": "Argon ONE V5 aluminium case body without the M.2 expansion board. Full aluminium heatsink enclosure with programmable power button and repositioned HDMI/USB-C ports. Add the expansion board separately to enable NVMe storage.",
+    "features": [],
+    "extra_notes": "",
+    "image_hash": "b2402aba3fc4"
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 13:11 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
