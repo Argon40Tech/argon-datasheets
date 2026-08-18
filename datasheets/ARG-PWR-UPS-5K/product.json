@@ -2,7 +2,7 @@
   "sku": "ARG-PWR-UPS-5K",
   "name": "Argon PWR 27W UPS for RPi 5 — 5000mAh",
   "family": "PWR",
-  "category": "PWR PD",
+  "category": "—",
   "compatible_with": [
     "Raspberry Pi 5"
   ],
