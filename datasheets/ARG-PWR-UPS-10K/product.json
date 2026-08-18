@@ -1,0 +1,19 @@
+{
+  "sku": "ARG-PWR-UPS-10K",
+  "name": "Argon PWR UPS 27W PD for RPi 5 10000mAh",
+  "family": "PWR",
+  "category": "—",
+  "compatible_with": [
+    "Raspberry Pi 5"
+  ],
+  "description": "27W UPS (Uninterruptible Power Supply) for Raspberry Pi 5 with a 10,000 mAh battery. Provides clean power delivery and battery backup, protecting against power outages. USB-C PD 27W output.",
+  "tags": [
+    "ups",
+    "uninterruptible-power-supply",
+    "battery-backup",
+    "usb-c-pd",
+    "power-delivery",
+    "smart-fuel-gauge",
+    "portable-power"
+  ]
+}
