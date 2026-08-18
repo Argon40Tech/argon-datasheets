@@ -1,15 +1,16 @@
 {
-  "document_version": 3,
-  "product_revision": 3,
-  "content_hash": "5984e647631e",
-  "generated_at": "2026-08-05 03:24 UTC",
+  "document_version": 4,
+  "product_revision": 4,
+  "content_hash": "0ecd0af41856",
+  "generated_at": "2026-08-18 07:56 UTC",
   "snapshot": {
     "identity": {
       "model_no": "A25-006-AR-HMI-8CS",
       "upc_ean": "5065019946294",
       "dimensions_cm": "24.8 x 16 x 7.8 cm",
       "weight_kg": "0.964",
-      "category": "AI HMI",
+      "category": "—",
+      "family": "AI HMI",
       "hts_code": "—"
     },
     "specs": {
@@ -21,35 +22,32 @@
       "screen_size": "8 inches",
       "resolution": "1280 × 800",
       "display_type": "Full Optical Bonding HDMI Display",
-      "touch_type": "10-point capacitive touchscreen",
+      "touch_screen": "10-point capacitive touchscreen",
       "connection": "HDMI",
       "enclosure_material": "Industrial-grade aluminum",
-      "cooling": "Full aluminum enclosure serves as passive heatsink with optional active module",
+      "cooling": "Passive heatsink with optional active cooling module",
       "dimensions_cm": "24.8 x 16 x 7.8 cm",
       "dimensions_mm": "199.47 x 195.00 x 130.47",
       "width_mm": "195.00",
       "height_mm": "199.47",
       "depth_mm": "130.47",
       "weight_kg": "0.964",
-      "compatible_device": "Raspberry Pi 5 / Argon Industria Base",
+      "compatible_board": "Raspberry Pi 5",
       "gpio_header": "40-pin Raspberry Pi standard GPIO header",
       "hat_support": "Supports Cytron Industrial HAT or any Raspberry Pi HAT via GPIO connection",
       "accessible_ports": "USB, Ethernet, HDMI, and GPIO ports",
       "nvm_expansion": "Single NVMe Board, Dual NVMe Board, NVMe with LAN (sold separately)",
       "mounting_options": "VESA, panel, or desktop mounting",
       "rohs_compliant": "EU 2002/95/EC RoHS directive",
-      "scale": "1:1",
-      "sheet": "1 of 1",
       "model_number": "A25-006-AR-HMI-8CS",
       "touch_capability": "10-point capacitive touchscreen",
       "display_connection": "HDMI (standard full-size)",
       "cooling_primary": "Full aluminum enclosure serves as passive heatsink",
       "cooling_optional": "Optional active cooling module available (sold separately)",
+      "mounting_compatibility": "VESA, panel, or desktop mounting",
       "nvme_expansion": "Compatible with Single NVMe Board, Dual NVMe Board, NVMe with LAN (sold separately)",
-      "compatible_board": "Raspberry Pi 5",
       "datasheet_version": "Rev 2 (build v2), dated 04 August 2026",
-      "recommended_psu": "5V 5A (27W) USB-C Power Delivery",
-      "minimum_psu": "5V 3A (15W)",
+      "touch_type": "10-point capacitive touchscreen",
       "width": "195.00 mm",
       "height": "199.47 mm",
       "depth": "130.47 mm",
@@ -78,7 +76,7 @@
       "Compatible with Single, Dual, and NVMe with LAN expansion boards"
     ],
     "extra_notes": "",
-    "image_hash": ""
+    "image_hash": "c57ccd885038"
   },
   "history": [
     {
@@ -159,6 +157,25 @@
         "Added spec `weight` = 0.964 kg",
         "Added spec `weight_kg` = 0.964",
         "Features updated",
+        "Marketing product image(s) updated"
+      ]
+    },
+    {
+      "document_version": 4,
+      "product_revision": 4,
+      "generated_at": "2026-08-18 07:56 UTC",
+      "data_changed": true,
+      "remarks": [
+        "identity `category`: AI HMI → —",
+        "Added identity `family` = AI HMI",
+        "Removed spec `compatible_device`",
+        "spec `cooling`: Full aluminum enclosure serves as passive heatsink with optional active module → Passive heatsink with optional active cooling module",
+        "Removed spec `minimum_psu`",
+        "Added spec `mounting_compatibility` = VESA, panel, or desktop mounting",
+        "Removed spec `recommended_psu`",
+        "Removed spec `scale`",
+        "Removed spec `sheet`",
+        "Added spec `touch_screen` = 10-point capacitive touchscreen",
         "Marketing product image(s) updated"
       ]
     }
