@@ -1,0 +1,11 @@
+{
+  "sku": "ARG-ONE-V5-QUAD",
+  "name": "Argon ONE V5 Quad M.2 NVME Expansion Board Only",
+  "family": "General",
+  "category": "—",
+  "compatible_with": [
+    "Raspberry Pi 5 / Argon ONE V5 Case"
+  ],
+  "description": "Quad M.2 NVMe PCIe expansion board for the Argon ONE V5 case. Connects to the Raspberry Pi 5 PCIe FPC connector to support up to four M.2 NVMe SSDs.",
+  "tags": []
+}
