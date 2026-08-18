@@ -1,0 +1,36 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "a0aa97a75539",
+  "generated_at": "2026-08-18 13:17 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A24-006-AR-V5-NVME-DUO",
+      "upc_ean": "5065019946171",
+      "dimensions_cm": "10 x 3.6 x 16.7 cm",
+      "weight_kg": "0.362",
+      "category": "—",
+      "family": "ONE v5",
+      "hts_code": "8473.30.5100"
+    },
+    "specs": {},
+    "compatibility": [
+      "Raspberry Pi 5"
+    ],
+    "description": "Argon ONE V5 aluminium case bundled with the Dual M.2 NVMe PCIe expansion board, supporting two M.2 NVMe SSDs simultaneously via the PCIe interface on the Raspberry Pi 5.",
+    "features": [],
+    "extra_notes": "",
+    "image_hash": "188e3660919e"
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 13:17 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
