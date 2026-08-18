@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18 13:18 UTC",
-  "product_count": 13,
+  "generated_at": "2026-08-18 13:29 UTC",
+  "product_count": 14,
   "products": [
     {
       "sku": "ARG-ONE-V5-NVME",
@@ -262,6 +262,23 @@
       "generated_at": "2026-08-18 13:17 UTC",
       "pdf_path": "datasheets/ARG-ONE-V5-DUAL/ARG-ONE-V5-DUAL-datasheet.pdf",
       "pdf_size_bytes": 1048313,
+      "needs_metadata_backfill": false
+    },
+    {
+      "sku": "ARG-ONE-V5-QUAD",
+      "name": "Argon ONE V5 Quad M.2 NVME Expansion Board Only",
+      "family": "General",
+      "category": "—",
+      "compatible_with": [
+        "Raspberry Pi 5 / Argon ONE V5 Case"
+      ],
+      "description": "Quad M.2 NVMe PCIe expansion board for the Argon ONE V5 case. Connects to the Raspberry Pi 5 PCIe FPC connector to support up to four M.2 NVMe SSDs.",
+      "tags": [],
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 13:29 UTC",
+      "pdf_path": "datasheets/ARG-ONE-V5-QUAD/ARG-ONE-V5-QUAD-datasheet.pdf",
+      "pdf_size_bytes": 794819,
       "needs_metadata_backfill": false
     },
     {
