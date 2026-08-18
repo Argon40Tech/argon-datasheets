@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18 08:40 UTC",
-  "product_count": 10,
+  "generated_at": "2026-08-18 11:16 UTC",
+  "product_count": 11,
   "products": [
     {
       "sku": "ARG-ONE-V5-NVME",
@@ -270,6 +270,31 @@
       "generated_at": "2026-08-18 08:39 UTC",
       "pdf_path": "datasheets/ARG-PWR-UPS-5K/ARG-PWR-UPS-5K-datasheet.pdf",
       "pdf_size_bytes": 473992,
+      "needs_metadata_backfill": false
+    },
+    {
+      "sku": "ARG-PWR-UPS-10K",
+      "name": "Argon PWR UPS 27W PD for RPi 5 10000mAh",
+      "family": "PWR",
+      "category": "—",
+      "compatible_with": [
+        "Raspberry Pi 5"
+      ],
+      "description": "27W UPS (Uninterruptible Power Supply) for Raspberry Pi 5 with a 10,000 mAh battery. Provides clean power delivery and battery backup, protecting against power outages. USB-C PD 27W output.",
+      "tags": [
+        "ups",
+        "uninterruptible-power-supply",
+        "battery-backup",
+        "usb-c-pd",
+        "power-delivery",
+        "smart-fuel-gauge",
+        "portable-power"
+      ],
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 11:16 UTC",
+      "pdf_path": "datasheets/ARG-PWR-UPS-10K/ARG-PWR-UPS-10K-datasheet.pdf",
+      "pdf_size_bytes": 432780,
       "needs_metadata_backfill": false
     }
   ]
