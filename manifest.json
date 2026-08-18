@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07 05:55 UTC",
-  "product_count": 9,
+  "generated_at": "2026-08-18 07:13 UTC",
+  "product_count": 10,
   "products": [
     {
       "sku": "ARG-ONE-V5-NVME",
@@ -47,6 +47,43 @@
       "generated_at": "2026-07-29 01:22 UTC",
       "pdf_path": "datasheets/ARG-EON-NAS/ARG-EON-NAS-datasheet.pdf",
       "pdf_size_bytes": 307714,
+      "needs_metadata_backfill": false
+    },
+    {
+      "sku": "ARG-IND-HMI-10CS",
+      "name": "Argon Industria HMI 10CS — 10-inch HDMI Display with Enclosure",
+      "family": "Industria",
+      "category": "—",
+      "compatible_with": [
+        "Raspberry Pi 5 / Argon Industria Base",
+        "Raspberry Pi 5"
+      ],
+      "description": "10-inch capacitive touchscreen HDMI display integrated with Argon Industria enclosure. For industrial HMI applications with Raspberry Pi 5. HDMI input with full Industria ecosystem compatibility.",
+      "tags": [
+        "industrial-hmi",
+        "capacitive-touchscreen",
+        "hdmi-display",
+        "aluminum-enclosure",
+        "passive-cooling",
+        "vesa-mount",
+        "argon-industria",
+        "touchscreen",
+        "capacitive-touch",
+        "automation",
+        "control-panel",
+        "vesa-mounting",
+        "optical-bonding",
+        "multi-touch",
+        "hmi-display",
+        "industrial-automation",
+        "gpio-passthrough",
+        "netsuke-expansion"
+      ],
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 07:13 UTC",
+      "pdf_path": "datasheets/ARG-IND-HMI-10CS/ARG-IND-HMI-10CS-datasheet.pdf",
+      "pdf_size_bytes": 787920,
       "needs_metadata_backfill": false
     },
     {
