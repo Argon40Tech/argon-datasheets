@@ -1,0 +1,11 @@
+{
+  "sku": "ARG-ONE-V5-ONLY",
+  "name": "Argon ONE V5 Case for Raspberry Pi 5",
+  "family": "General",
+  "category": "ONE v5",
+  "compatible_with": [
+    "Raspberry Pi 5"
+  ],
+  "description": "Argon ONE V5 aluminium case body without the M.2 expansion board. Full aluminium heatsink enclosure with programmable power button and repositioned HDMI/USB-C ports. Add the expansion board separately to enable NVMe storage.",
+  "tags": []
+}
