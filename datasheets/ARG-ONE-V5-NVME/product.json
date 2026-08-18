@@ -1,6 +1,6 @@
 {
   "sku": "ARG-ONE-V5-NVME",
-  "name": "ARG-ONE-V5-NVME",
+  "name": "Argon ONE V5 Case with M.2 NVMe SSD Slot",
   "family": "V5",
   "category": "ONE v5",
   "compatible_with": [
@@ -13,6 +13,22 @@
     "nvme",
     "m2",
     "pcie",
-    "argon-one"
+    "argon-one",
+    "nvme-expansion",
+    "pcie-2-0",
+    "active-cooling",
+    "passive-cooling",
+    "heatsink-included",
+    "usb-hub",
+    "dac-audio",
+    "aluminum-case",
+    "abs-plastic",
+    "thermal-pads",
+    "u-shaped-connector",
+    "locking-tabs",
+    "2260-compatible",
+    "static-protection",
+    "pcie-connector",
+    "m2-form-factors"
   ]
 }
