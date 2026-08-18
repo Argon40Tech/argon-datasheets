@@ -2,7 +2,7 @@
   "sku": "ARG-IND-HMI-8CS",
   "name": "Argon Industria HMI 8CS — 8-inch HDMI Display with Enclosure",
   "family": "Industria",
-  "category": "AI HMI",
+  "category": "—",
   "compatible_with": [
     "Raspberry Pi 5 / Argon Industria Base",
     "Raspberry Pi 5"
