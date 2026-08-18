@@ -1,0 +1,56 @@
+{
+  "document_version": 1,
+  "product_revision": 1,
+  "content_hash": "0d1023dbb9fe",
+  "generated_at": "2026-08-18 13:29 UTC",
+  "snapshot": {
+    "identity": {
+      "model_no": "A25-025-V5-PCIe-Cable",
+      "upc_ean": "—",
+      "dimensions_cm": "—",
+      "weight_kg": "—",
+      "category": "—",
+      "family": "ONE v5",
+      "hts_code": "—"
+    },
+    "specs": {
+      "case_material": "Injected aluminum alloy top and injected ABS plastic bottom",
+      "cooling_type": "Blower type 30mm PWM actively controlled by the Raspberry Pi OS",
+      "fan_size": "30mm PWM",
+      "audio_dac": "HS100B - DAC Chip",
+      "audio_io": "3.5mm audio out and mic in",
+      "usb_hub_chip": "FE1.1S - USB Hub Chip",
+      "front_usb_2_0_ports": "2",
+      "hdmi_ports": "2 Regular HDMI",
+      "gpio_access": "Full GPIO Access with Magnetic cover",
+      "max_nvme_drives": "Quad",
+      "nvme_form_factors": "2230, 2242, 2260, 2280",
+      "single_drive_variant": "RPI 5 Native 1 PCIe Gen2",
+      "dual_gen2_chipset": "ASM1182e",
+      "quad_gen3_chipset": "ASM2806",
+      "oled_module_size": "1.8 inch",
+      "zigbee_chip": "CC2562P",
+      "oled_display_info": "IP address, Storage, CPU and Memory Status",
+      "zigbee_compatibility": "Fully compatible with Home Assistant Operating System",
+      "ssd_storage_options": "128 GB, 256 GB M.2 NVMe SSD"
+    },
+    "compatibility": [
+      "Raspberry Pi 5 / Argon ONE V5 Case"
+    ],
+    "description": "Quad M.2 NVMe PCIe expansion board for the Argon ONE V5 case. Connects to the Raspberry Pi 5 PCIe FPC connector to support up to four M.2 NVMe SSDs.",
+    "features": [],
+    "extra_notes": "",
+    "image_hash": "c255864ae98c"
+  },
+  "history": [
+    {
+      "document_version": 1,
+      "product_revision": 1,
+      "generated_at": "2026-08-18 13:29 UTC",
+      "data_changed": true,
+      "remarks": [
+        "Initial datasheet — all fields new."
+      ]
+    }
+  ]
+}
